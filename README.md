@@ -4,5 +4,4 @@
 
 
 # Tools
-Moralis.io
-Moralis  `ethereum-boilerplate`:
+Moralis.io, Moralis Ethereum Boilerplate 
